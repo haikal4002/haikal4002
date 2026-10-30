@@ -24,8 +24,8 @@ Welcome to my secondary GitHub profile! This space is dedicated to my web develo
 
 ---
 
-### 📈 Activity Graph
-![Haikal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haikal4002&theme=react-dark)
+### 📊 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=haikal4002&theme=radical)
 
 ---
 
